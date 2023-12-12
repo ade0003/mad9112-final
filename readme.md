@@ -1,3 +1,3 @@
 # Goodness_Ade_FinalProject
 
-![image](./image/image.jpg)
+![Goodness Ade](./images/image.png)
